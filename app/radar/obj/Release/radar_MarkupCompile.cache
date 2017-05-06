@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\mt2si\Desktop\projekty\radar\radar\app\radar\obj\Debug\
+C:\Users\mt2si\Desktop\projekty\radar\radar\app\radar\obj\Release\
 radar
 none
 false
-DEBUG;TRACE
+TRACE
 C:\Users\mt2si\Desktop\projekty\radar\radar\app\radar\App.xaml
 11151548125
 
-101585937198
+61238232339
 13738642453
 MainWindow.xaml;
 
-True
+False
 

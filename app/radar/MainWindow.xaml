@@ -14,9 +14,6 @@
         <Label x:Name="label2" Content="0°" HorizontalAlignment="Left" Margin="397,556,0,0" VerticalAlignment="Top" Width="55" Height="40" FontSize="18" Foreground="#FF21EE17"/>
         <TextBox x:Name="textbox2" HorizontalAlignment="Left" Height="30" Margin="293,556,0,0" TextWrapping="Wrap" Text="10" VerticalAlignment="Top" Width="54" FontSize="16" Foreground="#FF3AEA13" BorderBrush="#FF27E609" Background="#00000000"/>
         <Canvas x:Name="canvas" HorizontalAlignment="Left" Height="536" Margin="10,10,0,0" VerticalAlignment="Top" Width="1072">
-            <Canvas.Background>
-                <ImageBrush ImageSource="file:///C:/Users/mt2si/Desktop/projekty/radar/radar/radar/radar.png"/>
-            </Canvas.Background>
             <Label Content="180°"  Canvas.Left="-12" Canvas.Top="510" Background="#00000000" Foreground="#FF35F709"/>
             <Label Content="150°" Canvas.Left="64" Canvas.Top="239" Background="#00000000" Foreground="#FF35F709" RenderTransformOrigin="0.5,0.5">
                 <Label.RenderTransform>
