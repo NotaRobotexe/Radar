@@ -1,0 +1,14 @@
+C:\Users\mt2si\Desktop\projekty\radar\radar\radar\bin\Debug\radar.exe
+C:\Users\mt2si\Desktop\projekty\radar\radar\radar\bin\Debug\radar.exe.config
+C:\Users\mt2si\Desktop\projekty\radar\radar\radar\obj\Debug\MainWindow.g.cs
+C:\Users\mt2si\Desktop\projekty\radar\radar\radar\obj\Debug\App.g.cs
+C:\Users\mt2si\Desktop\projekty\radar\radar\radar\obj\Debug\radar_MarkupCompile.cache
+C:\Users\mt2si\Desktop\projekty\radar\radar\radar\obj\Debug\radar_MarkupCompile.lref
+C:\Users\mt2si\Desktop\projekty\radar\radar\radar\obj\Debug\MainWindow.baml
+C:\Users\mt2si\Desktop\projekty\radar\radar\radar\obj\Debug\radar.g.resources
+C:\Users\mt2si\Desktop\projekty\radar\radar\radar\obj\Debug\radar.Properties.Resources.resources
+C:\Users\mt2si\Desktop\projekty\radar\radar\radar\obj\Debug\radar.csproj.GenerateResource.Cache
+C:\Users\mt2si\Desktop\projekty\radar\radar\radar\obj\Debug\radar.exe
+C:\Users\mt2si\Desktop\projekty\radar\radar\radar\obj\Debug\radar.pdb
+C:\Users\mt2si\Desktop\projekty\radar\radar\radar\obj\Debug\radar.csprojResolveAssemblyReference.cache
+C:\Users\mt2si\Desktop\projekty\radar\radar\radar\bin\Debug\radar.pdb
